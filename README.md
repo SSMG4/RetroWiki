@@ -157,7 +157,7 @@ Now, without further ado, enjoy!
 | [Parallel Launcher (GUI for both RetroArch N64 cores)](https://parallel-launcher.ca/)                                                                                           | :heavy_check_mark: | GNU GPLv3+                                                                                        | :x:                | :heavy_check_mark: | :heavy_check_mark: | Nintendo 64      | :computer: :apple: :penguin:                                |
 | [Rosalie's Mupen GUI](https://github.com/Rosalie241/RMG)                                                                                                                        | :heavy_check_mark: | GNU GPLv3                                                                                         | :x:                | :heavy_check_mark: | :heavy_check_mark: | Nintendo 64      | :computer: :penguin:                                        |
 > [!WARNING]
-> Older versions of Mupen64Plus (versions prior to [this](https://github.com/mupen64plus/mupen64plus-core/commit/5340dafcc0f5e8284057ab931dd5c66222d3d49e) commit) and Project64 (1.6.1 and below) have known security vulnerabilities, so please keep your emulators updated!
+> Older versions of Mupen64Plus (versions prior to [this](https://github.com/mupen64plus/mupen64plus-core/commit/5340dafcc0f5e8284057ab931dd5c66222d3d49e) commit) have known security vulnerabilities, so please keep your emulators updated!
 
 #### Nintendo GameCube
 
