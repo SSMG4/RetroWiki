@@ -205,7 +205,6 @@ Now, without further ado, enjoy!
 
 | Emulator                                              | FOSS               | License              | Paid | Active | Recommended        | Emulated systems                                                                              | Platform                           |
 | ----------------------------------------------------- | ------------------ | -------------------- | ---- | ------ | ------------------ | --------------------------------------------------------------------------------------------- | ---------------------------------- |
-| [FreezeSMS](http://freezesms.emuunlim.com/index.html) | :x:                | Proprietary          | :x:  | :x:    | :heavy_minus_sign: | Sega Master System, Nintendo Entertainment System, Sega Game Gear, Sega SG-1000, ColecoVision | :computer:                         |
 | [SMSPLUS](https://github.com/0ldsk00l/smsplus)        | :heavy_check_mark: | 3-clause BSD license | :x:  | :x:    | :heavy_minus_sign: | Sega Master System, Sega Game Gear                                                            | :computer: :apple: :penguin: :imp: |
 
 #### Sega Genesis/Megadrive and 32X/Sega CD
