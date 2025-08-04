@@ -245,15 +245,8 @@ Now, without further ado, enjoy!
 
 | Emulator                                                                                                    | FOSS               | License              | Paid | Active             | Recommended        | Emulated systems | Platform                     |
 | ----------------------------------------------------------------------------------------------------------- | ------------------ | -------------------- | ---- | ------------------ | ------------------ | ---------------- | ---------------------------- |
-| [Cxbx](https://github.com/Echelon9/cxbx-shogun)                                                             | :heavy_check_mark: | GNU GPLv2            | :x:  | :x:                | :x:                | Microsoft Xbox   | :computer: :penguin:         |
 | [Cxbx-Reloaded](https://cxbx-reloaded.co.uk/)                                                               | :heavy_check_mark: | GNU GPLv2            | :x:  | :heavy_check_mark: | :heavy_check_mark: | Microsoft Xbox   | :computer:                   |
-| [Dxbx](http://sourceforge.net/projects/dxbx)                                                                | :heavy_check_mark: | GNU GPLv2            | :x:  | :x:                | :x:                | Microsoft Xbox   | :computer:                   |
-| [OpenXBOX](https://github.com/mborgerson/OpenXBOX/tree/master)                                              | :heavy_minus_sign: | Source available     | :x:  | :x:                | :x:                | Microsoft Xbox   | :computer: :penguin:         |
-| [StrikeBox](https://github.com/StrikerX3/StrikeBox)                                                         | :heavy_check_mark: | 2-clause BSD license | :x:  | :x:                | :x:                | Microsoft Xbox   | :computer: :penguin:         |
-| [XQEMU](https://github.com/xqemu/xqemu)                                                                     | :heavy_check_mark: | GNU GPLv2            | :x:  | :x:                | :heavy_minus_sign: | Microsoft Xbox   | :computer: :apple: :penguin: |
 | [Xemu](https://xemu.app/)                                                                                   | :heavy_check_mark: | GNU GPLv2            | :x:  | :heavy_check_mark: | :heavy_check_mark: | Microsoft Xbox   | :computer: :apple: :penguin: |
-| [Xeon](https://www.emulator-zone.com/doc.php/xbox/xeon.html)                                                | :x:                | Proprietary          | :x:  | :x:                | :x:                | Microsoft Xbox   | :computer:                   |
-| [Xenoborg](https://xenoborg-emu.blogspot.com/) - [Source here](https://code.google.com/archive/p/xenoborg/) | :heavy_check_mark: | GNU GPLv3            | :x:  | :x:                | :x:                | Microsoft Xbox   | :computer:                   |
 
 #### Microsoft Xbox 360
 
