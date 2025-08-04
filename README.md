@@ -63,10 +63,10 @@ Now, without further ado, enjoy!
 
 | Emulator                                         | FOSS | License     | Paid               | Active | Recommended | Emulated systems     | Platform   |
 | ------------------------------------------------ | ---- | ----------- | ------------------ | ------ | ----------- | -------------------- | ---------- |
-| [Akiko](https://www.zophar.net/amiga/akiko.html) | :x:  | Proprietary | :heavy_check_mark: | :x:    | :x:         | Commodore Amiga CD32 | :computer: |
+| N/A | N/A  | N/A | N/A | N/A    | N/A         | N/A | N/A |
 
 > [!NOTE]
-> This emulator is the only one available for this specific device, i could not find any free emulators for it
+> This device only has one paid emulator, could not find any free emulators for it
 
 ### LaserDisc systems
 
