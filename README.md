@@ -237,10 +237,7 @@ Now, without further ado, enjoy!
 
 | Emulator                                                                        | FOSS               | License          | Paid | Active | Recommended        | Emulated systems   | Platform                                           |
 | ------------------------------------------------------------------------------- | ------------------ | ---------------- | ---- | ------ | ------------------ | ------------------ | -------------------------------------------------- |
-| [DirectVMS](https://www.zophar.net/vms/directvms.html)                          | :heavy_minus_sign: | Source available | :x:  | :x:    | :x:                | Sega Dreamcast VMU | :computer:                                         |
-| [DreamVMU](https://web.archive.org/web/20040415081512/http://xega.emucamp.com/) | :heavy_minus_sign: | Source available | :x:  | :x:    | :x:                | Sega Dreamcast VMU | :computer:                                         |
 | [ElysianVMU](http://evmu.elysianshadows.com/)                                   | :x:                | Proprietary      | :x:  | :x:    | :heavy_check_mark: | Sega Dreamcast VMU | :computer: :apple: :penguin:                       |
-| [SoftVMS](https://mc.pp.se/dc/sw.html)                                          | :heavy_minus_sign: | Source available | :x:  | :x:    | :x:                | Sega Dreamcast VMU | :computer: :penguin: :floppy_disk: Amiga Dreamcast |
 
 ### Microsoft
 
