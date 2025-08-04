@@ -57,9 +57,6 @@ Now, without further ado, enjoy!
 | Emulator                                                  | FOSS               | License          | Paid | Active             | Recommended        | Emulated systems              | Platform                     |
 | --------------------------------------------------------- | ------------------ | ---------------- | ---- | ------------------ | ------------------ | ----------------------------- | ---------------------------- |
 | [BigPEmu](https://www.richwhitehouse.com/jaguar/)         | :x:                | Proprietary      | :x:  | :heavy_check_mark: | :heavy_check_mark: | Atari Jaguar, Atari Jaguar CD | :computer: :penguin:         |
-| [Jaggy](https://www.zophar.net/jaguar/jaggy.html)         | :heavy_check_mark: | Source available | :x:  | :x:                | :x:                | Atari Jaguar                  | :computer:                   |
-| [Jagulator](https://www.zophar.net/jaguar/jagulator.html) | :x:                | Proprietary      | :x:  | :x:                | :x:                | Atari Jaguar                  | :computer:                   |
-| [Project Tempest](http://pt.emuunlim.com/)                | :x:                | Proprietary      | :x:  | :x:                | :x:                | Atari Jaguar                  | :computer:                   |
 | [Virtual Jaguar](https://www.icculus.org/virtualjaguar/)  | :heavy_check_mark: | GNU GPLv2        | :x:  | :heavy_minus_sign: | :heavy_check_mark: | Atari Jaguar, Atari Jaguar CD | :computer: :apple: :penguin: |
 
 #### Commodore Amiga CD32
@@ -67,6 +64,9 @@ Now, without further ado, enjoy!
 | Emulator                                         | FOSS | License     | Paid               | Active | Recommended | Emulated systems     | Platform   |
 | ------------------------------------------------ | ---- | ----------- | ------------------ | ------ | ----------- | -------------------- | ---------- |
 | [Akiko](https://www.zophar.net/amiga/akiko.html) | :x:  | Proprietary | :heavy_check_mark: | :x:    | :x:         | Commodore Amiga CD32 | :computer: |
+
+> [!NOTE]
+> This emulator is the only one available for this specific device, i could not find any free emulators for it
 
 ### LaserDisc systems
 
