@@ -252,17 +252,13 @@ Now, without further ado, enjoy!
 
 | Emulator                                               | FOSS               | License          | Paid | Active             | Recommended        | Emulated systems   | Platform   |
 | ------------------------------------------------------ | ------------------ | ---------------- | ---- | ------------------ | ------------------ | ------------------ | ---------- |
-| [cs360emu](https://github.com/soywiz-archive/cs360emu) | :heavy_minus_sign: | Source available | :x:  | :x:                | :x:                | Microsoft Xbox 360 | :computer: |
 | [Xenia](https://xenia.jp)                              | :heavy_check_mark: | MIT license      | :x:  | :heavy_check_mark: | :heavy_check_mark: | Microsoft Xbox 360 | :computer: |
 
 #### Microsoft Xbox One
 
 | Emulator                                                       | FOSS               | License            | Paid               | Active             | Recommended        | Emulated systems   | Platform   |
 | -------------------------------------------------------------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ---------- |
-| [Spasha](#)                                                    | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | Microsoft Xbox One | :computer: |
 | [WinDurango](https://github.com/WinDurango-project/WinDurango) | :heavy_check_mark: | GNU GPLv3          | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Microsoft Xbox One | :computer: |
-| [WinEra](#)                                                    | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | Microsoft Xbox One | :computer: |
-| [XWine1](#)                                                    | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | Microsoft Xbox One | :computer: |
 
 #### Microsoft Xbox Series
 
@@ -276,28 +272,13 @@ Now, without further ado, enjoy!
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ------------------------------------------------------------ | ---------------------------------------- |
 | [ePCEngine](http://takeda-toshiya.my.coocan.jp/)                                                                                                     | :heavy_check_mark: | GNU GPLv2        | :x:                | :heavy_check_mark: | :heavy_minus_sign: | NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx | :computer:                               |
 | [Hu-Go!](https://zeograd.com/)                                                                                                                       | :heavy_check_mark: | GNU GPLv2        | :x:                | :heavy_minus_sign: | :heavy_check_mark: | NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx | :computer: :penguin: :imp: :floppy_disk: |
-| [MagicEngine](http://www.magicengine.com/)                                                                                                           | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx | :computer: :floppy_disk: :apple:         |
-| [Neco (only the archived official web page had downloads and info)](https://web.archive.org/web/20061018021833/http://www.miracleworld.net:80/neco/) | :heavy_minus_sign: | Source available | :x:                | :x:                | :x:                | NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx | :computer: :penguin:                     |
 | [Ootake](https://www.ouma.jp/ootake/)                                                                                                                | :heavy_check_mark: | GNU GPLv2+       | :x:                | :heavy_check_mark: | :heavy_check_mark: | NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx | :computer:                               |
-| [pcejin](https://github.com/TASVideos/pcejin)                                                                                                        | :heavy_check_mark: | GNU GPLv2        | :x:                | :x:                | :x:                | NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx | :computer:                               |
-| [Turbo Engine](http://aamirm.hacking-cult.org/www/turbo.html)                                                                                        | :x:                | Proprietary      | :x:                | :x:                | :x:                | NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx | :computer:                               |
 
 ### SNK Neo Geo AES/MVS/Neo Geo CD
 
 | Emulator                                                                    | FOSS               | License          | Paid | Active             | Recommended        | Emulated systems            | Platform                                               |
 | --------------------------------------------------------------------------- | ------------------ | ---------------- | ---- | ------------------ | ------------------ | --------------------------- | ------------------------------------------------------ |
-| [Gekko](https://www.zophar.net/ngeo/gekko.html)                             | :x:                | Proprietary      | :x:  | :x:                | :x:                | SNK Neo Geo AES             | :computer:                                             |
-| [GnGeo](https://github.com/linuxlinks/gngeo)                                | :heavy_check_mark: | GNU GPLv2        | :x:  | :x:                | :x:                | SNK Neo Geo AES             | :penguin:                                              |
 | [geolith](https://gitlab.com/jgemu/geolith)                                 | :heavy_check_mark: | 3-clause BSD     | :x:  | :heavy_check_mark: | :heavy_check_mark: | Neo Geo AES and MVS         | :computer: :apple: :penguin: :imp:                     |
-| [Kawaks](https://cps2shock.emu-france.info/download.html)                   | :x:                | Proprietary      | :x:  | :x:                | :x:                | Neo Geo AES, CPS-2          | :computer:                                             |
-| [Neo-RAGEx](https://www.zophar.net/ngeo/neo-ragex.html)                     | :x:                | Proprietary      | :x:  | :x:                | :x:                | Neo Geo AES                 | :computer: :floppy_disk:                               |
-| [NeoDanji](https://www.zophar.net/ngeo/neodanji.html)                       | :x:                | Proprietary      | :x:  | :x:                | :x:                | Neo Geo AES                 | :floppy_disk:                                          |
-| [NEOGem](https://www.zophar.net/ngeo/neogem.html)                           | :x:                | Proprietary      | :x:  | :x:                | :x:                | Neo Geo AES                 | :computer: :floppy_disk:                               |
-| ['NeoGeo CD Emulator'](https://www.zophar.net/ngeo/neogeo-cd-emulator.html) | :x:                | Proprietary      | :x:  | :x:                | :x:                | Neo Geo CD                  | :computer:                                             |
-| [NeoCD](https://www.zophar.net/ngeo/neocd.html)                             | :heavy_minus_sign: | Source available | :x:  | :x:                | :heavy_minus_sign: | Neo Geo CD                  | :computer:                                             |
-| [NeoCD/SDL](http://pacifi3d.retrogames.com/neocdsdl/)                       | :heavy_minus_sign: | Source available | :x:  | :x:                | :heavy_minus_sign: | Neo Geo CD                  | :computer: :penguin: Dreamcast Sony PlayStation 2 Xbox |
-| [NeoRAINE](https://www.zophar.net/ngcd/neoraine.html)                       | :x:                | Proprietary      | :x:  | :x:                | :heavy_minus_sign: | Neo Geo AES/MVS, Neo Geo CD | :computer:                                             |
-| [RAINE](https://github.com/zelurker/raine)                                  | :heavy_minus_sign: | Source available | :x:  | :x:                | :heavy_minus_sign: | Neo Geo AES/MVS, Neo Geo CD | :computer: :penguin: :imp:                             |
 
 ### Pong consoles
 
@@ -315,11 +296,8 @@ Now, without further ado, enjoy!
 
 | Emulator                                                        | FOSS               | License          | Paid               | Active             | Recommended        | Emulated systems | Platform                     |
 | --------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------- |
-| [CD-iCE](https://www.zophar.net/cd-i/cd-ice.html)               | :x:                | Proprietary      | :x:                | :x:                | :x:                | Philips CD-i     | :computer:                   |
-| [CD-i Emulator](http://www.cdiemu.org/)                         | :x:                | Proprietary      | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Philips CD-i     | :computer:                   |
 | [CeDImu](https://github.com/Stovent/CeDImu)                     | :heavy_minus_sign: | Source available | :x:                | :heavy_check_mark: | :heavy_check_mark: | Philips CD-i     | :computer: :apple: :penguin: |
 | [Same CDi](https://docs.libretro.com/library/same_cdi/)         | :heavy_check_mark: | GNU GPLv2        | :x:                | :heavy_minus_sign: | :heavy_check_mark: | Philips CD-i     | :computer: :apple: :penguin: |
-| [TinyCDi](https://www.aep-emu.de/Emus-file-emus_detail-id-1440) | :heavy_check_mark: | GNU GPLv2        | :x:                | :x:                | :heavy_minus_sign: | Philips CD-i     | :computer:                   |
 
 ### Panasonic
 
@@ -360,35 +338,18 @@ Now, without further ado, enjoy!
 
 | Emulator                                                                    | FOSS               | License     | Paid | Active             | Recommended        | Emulated systems     | Platform                                             |
 | --------------------------------------------------------------------------- | ------------------ | ----------- | ---- | ------------------ | ------------------ | -------------------- | ---------------------------------------------------- |
-| [Bliss](https://github.com/jeremiah-sypult/BlissEmu)                        | :heavy_check_mark: | GNU GPLv2   | :x:  | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer:                                           |
-| [Bliss32](https://www.arcadeathome.com/ivision.phtml?H)                     | :heavy_check_mark: | GNU GPLv2   | :x:  | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer:                                           |
-| [BlissX](https://www.arcadeathome.com/ivision.phtml?H)                      | :heavy_check_mark: | GNU GPLv2   | :x:  | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer: :apple: :penguin: :imp:                   |
 | [BlissJ Web](https://www.arcadeathome.com/ivision.phtml?H)                  | :heavy_check_mark: | GNU GPLv2   | :x:  | :x:                | :heavy_minus_sign: | Mattel Intellivision | :globe_with_meridians:                               |
-| [BlissJ Java](https://www.arcadeathome.com/ivision.phtml?H)                 | :heavy_check_mark: | GNU GPLv2   | :x:  | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer: :apple: :penguin: :imp:                   |
-| [BlissJX](https://www.arcadeathome.com/ivision.phtml?H)                     | :heavy_check_mark: | GNU GPLv2   | :x:  | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer: :apple: :penguin: :imp:                   |
-| [gtk-jzintv](https://sourceforge.net/projects/gtk-jzintv/)                  | :heavy_check_mark: | GNU GPLv2   | :x:  | :x:                | :heavy_minus_sign: | Mattel Intellivision | :penguin: :imp:                                      |
 | [IntvDOS](https://www.arcadeathome.com/ivision.phtml?H)                     | :heavy_check_mark: | GNU GPLv2   | :x:  | :x:                | :x:                | Mattel Intellivision | :floppy_disk:                                        |
-| [IntvWin](https://www.arcadeathome.com/ivision.phtml?H)                     | :heavy_check_mark: | GNU GPLv2   | :x:  | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer:                                           |
-| [jzIntv](https://intellivision.us/intvgames/jzintv/jzintv.php)              | :heavy_check_mark: | GNU GPLv2   | :x:  | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer:                                           |
-| [jzintvGUI](http://www.intellivision.us/intvgames/jzintv/jzintv.php)        | :heavy_check_mark: | GNU GPLv2   | :x:  | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer:                                           |
 | [jzIntvImGui](https://github.com/jenergy/jzIntvImGui)                       | :heavy_check_mark: | GNU GPLv2   | :x:  | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer: :apple: :penguin: :robot: Nintendo Switch |
 | [FreeIntv](https://github.com/libretro/FreeIntv)                            | :heavy_check_mark: | GNU GPLv2+  | :x:  | :heavy_check_mark: | :heavy_check_mark: | Mattel Intellivision | :computer: :apple: :penguin:                         |
-| [Nostalgia](https://www.intellivision.us/intvgames/nostalgia/nostalgia.php) | :x:                | Proprietary | :x:  | :x:                | :heavy_check_mark: | Mattel Intellivision | :computer:                                           |
-| [NINTV](https://github.com/wavemotion-dave/NINTV-DS)                        | :heavy_check_mark: | MIT license | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Mattel Intellivision | Nintendo DS                                          |
-| [Xanadu](https://www.arcadeathome.com/ivision.phtml?H)                      | :x:                | Proprietary | :x:  | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer:                                           |
 
 ### Coleco ColecoVision
 
 | Emulator                                                                                                    | FOSS               | License              | Paid | Active             | Recommended        | Emulated systems    | Platform                                  |
 | ----------------------------------------------------------------------------------------------------------- | ------------------ | -------------------- | ---- | ------------------ | ------------------ | ------------------- | ----------------------------------------- |
-| [Bee](https://web.archive.org/web/20180903061210/http://thebeehive.ws/download/)                            | :heavy_check_mark: | GNU LGPLv2           | :x:  | :x:                | :x:                | Coleco ColecoVision | :computer: :apple: :penguin:              |
-| [CULT](https://www.zophar.net/coleco/cult.html)                                                             | :x:                | Proprietary          | :x:  | :x:                | :x:                | Coleco ColecoVision | :computer:                                |
 | [ColEm](https://fms.komkon.org/ColEm/)                                                                      | :x:                | Proprietary          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Coleco ColecoVision | :computer: :penguin: :robot: Nintendo Wii |
 | [ColecoDS](https://github.com/wavemotion-dave/ColecoDS)                                                     | :heavy_minus_sign: | Source available     | :x:  | :heavy_check_mark: | :heavy_check_mark: | Coleco ColecoVision | Nintendo DS                               |
-| [CoolCV](http://atariage.com/forums/topic/240800-coolcv-emulator-for-mac-os-x-linux-windows-and-raspberry/) | :x:                | Proprietary          | :x:  | :heavy_check_mark: | :heavy_check_mark: | Coleco ColecoVision | :computer: :apple: :penguin:              |
 | [jollycv](https://gitlab.com/jgemu/jollycv)                                                                 | :heavy_check_mark: | 3-clause BSD license | :x:  | :heavy_check_mark: | :heavy_check_mark: | Coleco ColecoVision | :computer: :apple: :penguin:              |
-| [Mugrat](https://www.bannister.org/software/mugrat.htm)                                                     | :x:                | Proprietary          | :x:  | :x:                | :heavy_minus_sign: | Coleco ColecoVision | :apple:                                   |
-| [Virtual ColecoVision (AKA Colem97)](https://www.zophar.net/coleco/virtual-colecovision.html)               | :x:                | Proprietary          | :x:  | :x:                | :heavy_minus_sign: | Coleco ColecoVision | :computer:                                |
 
 ### VTech V.Smile
 
