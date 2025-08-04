@@ -35,18 +35,8 @@ Now, without further ado, enjoy!
 
 | Emulator                                                        | FOSS               | License          | Paid | Active             | Recommended        | Emulated systems | Platform                           |
 | --------------------------------------------------------------- | ------------------ | ---------------- | ---- | ------------------ | ------------------ | ---------------- | ---------------------------------- |
-| [A26](https://www.zophar.net/a2600/a26.html)                    | :heavy_minus_sign: | Source available | :x:  | :x:                | :x:                | Atari 2600       | :floppy_disk:                      |
 | [Gopher2600](https://github.com/JetSetIlly/Gopher2600)          | :heavy_check_mark: | GNU GPLv3        | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Atari 2600       | :computer: :penguin:               |
-| [javatari](https://github.com/ppeccin/javatari.js)              | :heavy_check_mark: | AGPLv3           | :x:  | :heavy_check_mark: | :x:                | Atari 2600       | :globe_with_meridians:             |
-| [javatari (older version)](https://github.com/ppeccin/javatari) | :heavy_check_mark: | AGPLv3           | :x:  | :x:                | :x:                | Atari 2600       | :globe_with_meridians:             |
-| [NO$2K6](https://problemkaputt.github.io/)                      | :x:                | Proprietary      | :x:  | :heavy_check_mark: | :heavy_check_mark: | Atari 2600       | :computer: :floppy_disk:           |
-| [PC Atari Emulator (PCAE)](https://pcae.vg-network.com/)        | :heavy_check_mark: | GNU GPLv2        | :x:  | :x:                | :x:                | Atari 2600       | :computer: :floppy_disk:           |
-| [pyTari](https://sourceforge.net/projects/pytari/)              | :heavy_check_mark: | GNU GPLv2        | :x:  | :x:                | :x:                | Atari 2600       | :computer: :apple: :penguin: :imp: |
 | [Stella](https://stella-emu.github.io/)                         | :heavy_check_mark: | GNU GPLv2        | :x:  | :heavy_check_mark: | :heavy_check_mark: | Atari 2600       | :computer: :apple: :penguin: :imp: |
-| [Stellarator](https://github.com/dpiponi/Stellarator)           | :heavy_check_mark: | 3-clause BSD     | :x:  | :x:                | :x:                | Atari 2600       | :computer: :apple: :penguin: :imp: |
-| [VCS 2600](https://www.zophar.net/a2600/vcs-2600.html)          | :x:                | Proprietary      | :x:  | :x:                | :x:                | Atari 2600       | :computer:                         |
-| [Virtual 2600](https://www.zophar.net/a2600/virtual-2600.html)  | :heavy_check_mark: | GNU GPLv2        | :x:  | :x:                | :x:                | Atari 2600       | :floppy_disk:                      |
-| [Virtual VCS](https://www.zophar.net/a2600/virtual-vcs.html)    | :heavy_check_mark: | GNU GPLv2        | :x:  | :x:                | :x:                | Atari 2600       | :computer:                         |
 
 #### Atari 5200
 
