@@ -11,62 +11,60 @@ A repository that chooses the best emulator of each device/console for every pla
 | Minus sign | :heavy_minus_sign: | Partially open-source, no license, incorrect license, or disputed project license |
 | X          | :x:                | Closed-source/proprietary project                                                 |
 
-## Platforms Used
+## Platforms
 
 | Name                    | Icon                   | Meaning             |
 | ----------------------- | ---------------------- | ------------------- |
-| Windows                 | :computer:             | For Windows         |
-| Apple                   | :apple:                | For macOS           |
-| Linux                   | :penguin:              | For Linux           |
-| OpenBSD                 | :imp:                  | For BSD             |
+| 2 QNX                   | 2 QNX                  | For 2 QNX           |
+| AmigaOS                 | AmigaOS                | For AmigaOS         |
 | Android                 | :robot:                | For Android         |
-| iPhone                  | :iphone:               | For iOS             |
-| Web                     | :globe_with_meridians: | For The Web         |
-| MS-DOS                  | :floppy_disk:          | For MS-DOS          |
-| PlayStation Vita        | PSVita                 | For PS Vita         |
-| PlayStation Portable    | PSP                    | For PSP             |
-| Nintendo 3DS            | 3DS                    | For 3DS             |
-| Nintendo DS             | DS                     | For DS              |
-| Nintendo Wii            | Wii                    | For Wii             |
-| Nintendo GameCube       | GameCube               | For GameCube        |
-| Nintendo Switch         | Switch                 | For Switch          |
-| Microsoft Xbox          | Xbox                   | For Xbox            |
-| PlayStation 3           | PS3                    | For PS3             |
-| Sega Dreamcast          | Dreamcast              | For Dreamcast       |
-| Microsoft Xbox One      | Xbox One               | For Xbox One        |
+| Apple                   | :apple:                | For macOS           |
+| Atari Falcon            | Atari Falcon           | For Atari Falcon    |
+| Atari ST                | Atari ST               | For Atari ST        |
+| BeOS                    | BeOS                   | For BeOS            |
 | Commodore Amiga         | Amiga                  | For Amiga           |
-| PlayStation 2           | PS2                    | For PS2             |
-| Sega Megadrive          | Megadrive              | For Megadrive       |
-| Sega Genesis            | Genesis                | For Genesis         |
-| Panasonic 3DO           | 3DO                    | For 3DO             |
-| Nintendo Wii U          | Wii U                  | For Wii U           |
+| Game Park 32            | GP32                   | For GP32            |
+| Haiku                   | Haiku                  | For Haiku           |
+| iPhone                  | :iphone:               | For iOS             |
+| Linux                   | :penguin:              | For Linux           |
+| Microsoft Xbox          | Xbox                   | For Xbox            |
+| Microsoft Xbox 360      | Xbox 360               | For Xbox 360        |
+| Microsoft Xbox One      | Xbox One               | For Xbox One        |
+| MS-DOS                  | :floppy_disk:          | For MS-DOS          |
+| NeXTStep                | NeXTStep               | For NeXTStep        |
+| Nintendo 3DS            | 3DS                    | For 3DS             |
 | Nintendo 64             | N64                    | For N64             |
+| Nintendo DS             | DS                     | For DS              |
 | Nintendo Game Boy       | GB                     | For GB              |
 | Nintendo Game Boy Color | GBC                    | For GBC             |
-| TurboGrafx-16           | TurboGrafx-16          | For TurboGrafx-16   |
-| Rasberri-Pi             | Rasberri-Pi            | For Rasberri-Pi     |
-| Playdate                | Playdate               | For Playdate        |
+| Nintendo GameCube       | GameCube               | For GameCube        |
+| Nintendo Switch         | Switch                 | For Switch          |
+| Nintendo Wii            | Wii                    | For Wii             |
+| Nintendo Wii U          | Wii U                  | For Wii U           |
 | Oculus Quest            | Oculus Quest           | For Oculus Quest    |
-| BeOS                    | BeOS                   | For BeOS            |
-| Haiku                   | Haiku                  | For Haiku           |
-| Game Park 32            | GP32                   | For GP32            |
+| Open Pandora            | Open Pandora           | For Open Pandora    |
+| OpenBSD                 | :imp:                  | For BSD             |
 | OpenDingux              | OpenDingux             | For OpenDingux      |
-| Microsoft Xbox 360      | Xbox 360               | For Xbox 360        |
-| RiscOS                  | RiscOS                 | For RiscOS          |
-| AmigaOS                 | AmigaOS                | For AmigaOS         |
-| 2 QNX                   | 2 QNX                  | For 2 QNX           |
-| NeXTStep                | NeXTStep               | For NeXTStep        |
-| Atari ST                | Atari ST               | For Atari ST        |
 | OS/2                    | OS/2                   | For OS/2            |
+| Panasonic 3DO           | 3DO                    | For 3DO             |
+| Playdate                | Playdate               | For Playdate        |
+| PlayStation 2           | PS2                    | For PS2             |
+| PlayStation 3           | PS3                    | For PS3             |
+| PlayStation Portable    | PSP                    | For PSP             |
+| PlayStation Vita        | PSVita                 | For PS Vita         |
+| PocketCHIP              | PocketCHIP             | For PocketCHIP      |
+| Rasberri-Pi             | Rasberri-Pi            | For Rasberri-Pi     |
+| RiscOS                  | RiscOS                 | For RiscOS          |
+| Sega Dreamcast          | Dreamcast              | For Dreamcast       |
+| Sega Genesis            | Genesis                | For Genesis         |
+| Sega Megadrive          | Megadrive              | For Megadrive       |
 | Sharp X68000            | Sharp X68000           | For Sharp X68000    |
 | SteamOS                 | SteamOS                | For SteamOS         |
-| Atari Falcon            | Atari Falcon           | For Atari Falcon    |
-| Open Pandora            | Open Pandora           | For Open Pandora    |
-| PocketCHIP              | PocketCHIP             | For PocketCHIP      |
-| Atari Falcon            | Atari Falcon           | For Atari Falcon    |
-| Atari Falcon            | Atari Falcon           | For Atari Falcon    |
+| TurboGrafx-16           | TurboGrafx-16          | For TurboGrafx-16   |
+| Web                     | :globe_with_meridians: | For The Web         |
+| Windows                 | :computer:             | For Windows         |
 
-## Special Platforms Used
+## Special Platforms
 
 | Name                    | Icon                   | Meaning             |
 | ----------------------- | ---------------------- | ------------------- |
