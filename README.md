@@ -182,7 +182,6 @@ Now, without further ado, enjoy!
 
 | Emulator                                                          | FOSS               | License            | Paid | Active             | Recommended        | Emulated systems | Platform                             |
 | ----------------------------------------------------------------- | ------------------ | ------------------ | ---- | ------------------ | ------------------ | ---------------- | ------------------------------------ |
-| [Citron](https://git.citron-emu.org/Citron/Citron)                | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :penguin: :robot:         |
 | [Eden](https://eden-emu.dev/)                                     | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :penguin: :robot:         |
 | [Hydra](https://github.com/SamoZ256/hydra)                        | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :apple:                              |
 | [MeloNX](https://git.743378673.xyz/MeloNX/MeloNX/)                | :heavy_check_mark: | MIT license        | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :iphone:                             |
