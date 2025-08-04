@@ -1,5 +1,5 @@
 # RetroWiki
-A repository that chooses the best emulator of each device/console for your platform and provides everything you need to set one up.
+A repository that chooses the best emulator of each device/console for every platform and provides everything you need to set one up.
 
 + This Markdown is heavily inspired by [DerekTurtleRoe](https://github.com/DerekTurtleRoe)'s [Awesome-Emulators](https://github.com/DerekTurtleRoe/awesome-emulators) project so huge thanks to them!
 
@@ -13,16 +13,68 @@ A repository that chooses the best emulator of each device/console for your plat
 
 ## Platforms Used
 
-| Name        | Icon                   | Meaning         |
-| ----------- | ---------------------- | --------------- |
-| Computer    | :computer:             | For Windows     |
-| Apple       | :apple:                | For macOS       |
-| Penguin     | :penguin:              | For Linux       |
-| Imp         | :imp:                  | For BSD         |
-| Robot       | :robot:                | For Android     |
-| iPhone      | :iphone:               | For iOS         |
-| Globe       | :globe_with_meridians: | For The Web     |
-| Floppy Disk | :floppy_disk:          | For MS-DOS      |
+| Name                    | Icon                   | Meaning             |
+| ----------------------- | ---------------------- | ------------------- |
+| Windows                 | :computer:             | For Windows         |
+| Apple                   | :apple:                | For macOS           |
+| Linux                   | :penguin:              | For Linux           |
+| OpenBSD                 | :imp:                  | For BSD             |
+| Android                 | :robot:                | For Android         |
+| iPhone                  | :iphone:               | For iOS             |
+| Web                     | :globe_with_meridians: | For The Web         |
+| MS-DOS                  | :floppy_disk:          | For MS-DOS          |
+| PlayStation Vita        | PSVita                 | For PS Vita         |
+| PlayStation Portable    | PSP                    | For PSP             |
+| Nintendo 3DS            | 3DS                    | For 3DS             |
+| Nintendo DS             | DS                     | For DS              |
+| Nintendo Wii            | Wii                    | For Wii             |
+| Nintendo GameCube       | GameCube               | For GameCube        |
+| Nintendo Switch         | Switch                 | For Switch          |
+| Microsoft Xbox          | Xbox                   | For Xbox            |
+| PlayStation 3           | PS3                    | For PS3             |
+| Sega Dreamcast          | Dreamcast              | For Dreamcast       |
+| Microsoft Xbox One      | Xbox One               | For Xbox One        |
+| Commodore Amiga         | Amiga                  | For Amiga           |
+| PlayStation 2           | PS2                    | For PS2             |
+| Sega Megadrive          | Megadrive              | For Megadrive       |
+| Sega Genesis            | Genesis                | For Genesis         |
+| Panasonic 3DO           | 3DO                    | For 3DO             |
+| Nintendo Wii U          | Wii U                  | For Wii U           |
+| Nintendo 64             | N64                    | For N64             |
+| Nintendo Game Boy       | GB                     | For GB              |
+| Nintendo Game Boy Color | GBC                    | For GBC             |
+| TurboGrafx-16           | TurboGrafx-16          | For TurboGrafx-16   |
+| Rasberri-Pi             | Rasberri-Pi            | For Rasberri-Pi     |
+| Playdate                | Playdate               | For Playdate        |
+| Oculus Quest            | Oculus Quest           | For Oculus Quest    |
+| BeOS                    | BeOS                   | For BeOS            |
+| Haiku                   | Haiku                  | For Haiku           |
+| Game Park 32            | GP32                   | For GP32            |
+| OpenDingux              | OpenDingux             | For OpenDingux      |
+| Microsoft Xbox 360      | Xbox 360               | For Xbox 360        |
+| RiscOS                  | RiscOS                 | For RiscOS          |
+| AmigaOS                 | AmigaOS                | For AmigaOS         |
+| 2 QNX                   | 2 QNX                  | For 2 QNX           |
+| NeXTStep                | NeXTStep               | For NeXTStep        |
+| Atari ST                | Atari ST               | For Atari ST        |
+| OS/2                    | OS/2                   | For OS/2            |
+| Sharp X68000            | Sharp X68000           | For Sharp X68000    |
+| SteamOS                 | SteamOS                | For SteamOS         |
+| Atari Falcon            | Atari Falcon           | For Atari Falcon    |
+| Open Pandora            | Open Pandora           | For Open Pandora    |
+| PocketCHIP              | PocketCHIP             | For PocketCHIP      |
+| Atari Falcon            | Atari Falcon           | For Atari Falcon    |
+| Atari Falcon            | Atari Falcon           | For Atari Falcon    |
+
+## Special Platforms Used
+
+| Name                    | Icon                   | Meaning             |
+| ----------------------- | ---------------------- | ------------------- |
+| PIC32MZ2048EFH144 mc    | PIC32-mc               | For PIC32-mc        |
+| Classpad II (fx-CP400)  | CII                    | For CII             |
+| RetroArch               | RetroArch              | For RetroArch       |
+
+Now, without further ado, enjoy!
 
 ## Home Game Console Emulators
 
