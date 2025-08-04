@@ -18,19 +18,27 @@ A repository that chooses the best emulator of each device/console for every pla
 | 2 QNX                   | 2 QNX                  | For 2 QNX           |
 | AmigaOS                 | AmigaOS                | For AmigaOS         |
 | Android                 | :robot:                | For Android         |
+| Android TV              | :tv:                   | For Android TV      |
 | Apple                   | :apple:                | For macOS           |
+| Apple TV                | tvOS                   | For tvOS            |
 | Atari Falcon            | Atari Falcon           | For Atari Falcon    |
 | Atari ST                | Atari ST               | For Atari ST        |
 | BeOS                    | BeOS                   | For BeOS            |
+| ChromeOS                | :keyboard:             | For ChromeOS        |
 | Commodore Amiga         | Amiga                  | For Amiga           |
+| Fire TV                 | Fire TV                | For Fire TV         |
+| FreeBSD                 | :imp:                  | For FreeBSD         |
 | Game Park 32            | GP32                   | For GP32            |
 | Haiku                   | Haiku                  | For Haiku           |
+| iPad                    | iPadOS                 | For iPadOS          |
 | iPhone                  | :iphone:               | For iOS             |
+| KaiOS                   | KaiOS                  | For Kai             |
 | Linux                   | :penguin:              | For Linux           |
 | Microsoft Xbox          | Xbox                   | For Xbox            |
 | Microsoft Xbox 360      | Xbox 360               | For Xbox 360        |
 | Microsoft Xbox One      | Xbox One               | For Xbox One        |
 | MS-DOS                  | :floppy_disk:          | For MS-DOS          |
+| NetBSD                  | NetBSD                 | For NetBSD          |
 | NeXTStep                | NeXTStep               | For NeXTStep        |
 | Nintendo 3DS            | 3DS                    | For 3DS             |
 | Nintendo 64             | N64                    | For N64             |
@@ -43,7 +51,6 @@ A repository that chooses the best emulator of each device/console for every pla
 | Nintendo Wii U          | Wii U                  | For Wii U           |
 | Oculus Quest            | Oculus Quest           | For Oculus Quest    |
 | Open Pandora            | Open Pandora           | For Open Pandora    |
-| OpenBSD                 | :imp:                  | For BSD             |
 | OpenDingux              | OpenDingux             | For OpenDingux      |
 | OS/2                    | OS/2                   | For OS/2            |
 | Panasonic 3DO           | 3DO                    | For 3DO             |
@@ -68,8 +75,8 @@ A repository that chooses the best emulator of each device/console for every pla
 
 | Name                    | Icon                   | Meaning             |
 | ----------------------- | ---------------------- | ------------------- |
-| PIC32MZ2048EFH144 mc    | PIC32-mc               | For PIC32-mc        |
 | Classpad II (fx-CP400)  | CII                    | For CII             |
+| PIC32MZ2048EFH144 mc    | PIC32-mc               | For PIC32-mc        |
 | RetroArch               | RetroArch              | For RetroArch       |
 
 Now, without further ado, enjoy!
