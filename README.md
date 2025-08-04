@@ -1,5 +1,5 @@
 # RetroWiki
-A repository that chooses the best emulator of each device/console for every platform and provides everything you need to set one up.
+A repository that chooses the best emulator of each device/console and provides everything you need to set one up.
 
 + This Markdown is heavily inspired by [DerekTurtleRoe](https://github.com/DerekTurtleRoe)'s [Awesome-Emulators](https://github.com/DerekTurtleRoe/awesome-emulators) project so huge thanks to them!
 
@@ -11,73 +11,19 @@ A repository that chooses the best emulator of each device/console for every pla
 | Minus sign | :heavy_minus_sign: | Partially open-source, no license, incorrect license, or disputed project license |
 | X          | :x:                | Closed-source/proprietary project                                                 |
 
-## Platforms With Emulators
+## Platform Support
 
-| Name                    | Icon                   | Meaning             |
-| ----------------------- | ---------------------- | ------------------- |
-| 2 QNX                   | 2 QNX                  | For 2 QNX           |
-| AmigaOS                 | AmigaOS                | For AmigaOS         |
-| Android                 | :robot:                | For Android         |
-| Android TV              | :tv:                   | For Android TV      |
-| Apple                   | :apple:                | For macOS           |
-| Apple TV                | tvOS                   | For tvOS            |
-| Atari Falcon            | Atari Falcon           | For Atari Falcon    |
-| Atari ST                | Atari ST               | For Atari ST        |
-| BeOS                    | BeOS                   | For BeOS            |
-| ChromeOS                | :keyboard:             | For ChromeOS        |
-| Commodore Amiga         | Amiga                  | For Amiga           |
-| Fire TV                 | Fire TV                | For Fire TV         |
-| FreeBSD                 | :imp:                  | For FreeBSD         |
-| Game Park 32            | GP32                   | For GP32            |
-| Haiku                   | Haiku                  | For Haiku           |
-| iPad                    | iPadOS                 | For iPadOS          |
-| iPhone                  | :iphone:               | For iOS             |
-| KaiOS                   | KaiOS                  | For Kai             |
-| Linux                   | :penguin:              | For Linux           |
-| Microsoft Xbox          | Xbox                   | For Xbox            |
-| Microsoft Xbox 360      | Xbox 360               | For Xbox 360        |
-| Microsoft Xbox One      | Xbox One               | For Xbox One        |
-| MS-DOS                  | :floppy_disk:          | For MS-DOS          |
-| NetBSD                  | NetBSD                 | For NetBSD          |
-| NeXTStep                | NeXTStep               | For NeXTStep        |
-| Nintendo 3DS            | 3DS                    | For 3DS             |
-| Nintendo 64             | N64                    | For N64             |
-| Nintendo DS             | DS                     | For DS              |
-| Nintendo Game Boy       | GB                     | For GB              |
-| Nintendo Game Boy Color | GBC                    | For GBC             |
-| Nintendo GameCube       | GameCube               | For GameCube        |
-| Nintendo Switch         | Switch                 | For Switch          |
-| Nintendo Wii            | Wii                    | For Wii             |
-| Nintendo Wii U          | Wii U                  | For Wii U           |
-| Oculus Quest            | Oculus Quest           | For Oculus Quest    |
-| Open Pandora            | Open Pandora           | For Open Pandora    |
-| OpenDingux              | OpenDingux             | For OpenDingux      |
-| OS/2                    | OS/2                   | For OS/2            |
-| Panasonic 3DO           | 3DO                    | For 3DO             |
-| Playdate                | Playdate               | For Playdate        |
-| PlayStation 2           | PS2                    | For PS2             |
-| PlayStation 3           | PS3                    | For PS3             |
-| PlayStation Portable    | PSP                    | For PSP             |
-| PlayStation Vita        | PSVita                 | For PS Vita         |
-| PocketCHIP              | PocketCHIP             | For PocketCHIP      |
-| Rasberri-Pi             | Rasberri-Pi            | For Rasberri-Pi     |
-| RiscOS                  | RiscOS                 | For RiscOS          |
-| Sega Dreamcast          | Dreamcast              | For Dreamcast       |
-| Sega Genesis            | Genesis                | For Genesis         |
-| Sega Megadrive          | Megadrive              | For Megadrive       |
-| Sharp X68000            | Sharp X68000           | For Sharp X68000    |
-| SteamOS                 | SteamOS                | For SteamOS         |
-| TurboGrafx-16           | TurboGrafx-16          | For TurboGrafx-16   |
-| Web                     | :globe_with_meridians: | For The Web         |
-| Windows                 | :computer:             | For Windows         |
-
-## Special Platforms
-
-| Name                    | Icon                   | Meaning             |
-| ----------------------- | ---------------------- | ------------------- |
-| Classpad II (fx-CP400)  | CII                    | For CII             |
-| PIC32MZ2048EFH144 mc    | PIC32-mc               | For PIC32-mc        |
-| RetroArch               | RetroArch              | For RetroArch       |
+| Name        | Icon                   | Meaning         |
+| ----------- | ---------------------- | --------------- |
+| Computer    | :computer:             | Runs on Windows |
+| Apple       | :apple:                | Runs on macOS   |
+| Penguin     | :penguin:              | Runs on Linux   |
+| Imp         | :imp:                  | Runs on BSD     |
+| Robot       | :robot:                | Runs on Android |
+| iPhone      | :iphone:               | Runs on iOS     |
+| Globe       | :globe_with_meridians: | Runs on the web |
+| Floppy Disk | :floppy_disk:          | Runs on DOS     |
+| Evything Else                        | Runs elsewhere  |
 
 Now, without further ado, enjoy!
 
