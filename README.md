@@ -23,7 +23,7 @@ A repository that chooses the best emulator of each device/console and provides 
 | iPhone      | :iphone:               | Runs on iOS     |
 | Globe       | :globe_with_meridians: | Runs on the web |
 | Floppy Disk | :floppy_disk:          | Runs on DOS     |
-| Evything Else                        | Runs elsewhere  |
+| Everything Else |                    | Runs elsewhere  |
 
 Now, without further ado, enjoy!
 
