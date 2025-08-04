@@ -182,31 +182,20 @@ Now, without further ado, enjoy!
 
 | Emulator                                                          | FOSS               | License            | Paid | Active             | Recommended        | Emulated systems | Platform                             |
 | ----------------------------------------------------------------- | ------------------ | ------------------ | ---- | ------------------ | ------------------ | ---------------- | ------------------------------------ |
-| [CageTheUnicorn](https://github.com/reswitched/CageTheUnicorn)    | :heavy_check_mark: | ISC license        | :x:  | :x:                | :x:                | Nintendo Switch  | :computer: :apple: :penguin:         |
 | [Citron](https://git.citron-emu.org/Citron/Citron)                | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :penguin: :robot:         |
 | [ctremu](https://github.com/burhanr13/ctremu)                     | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :penguin: :apple:                    |
 | [Eden](https://eden-emu.dev/)                                     | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :penguin: :robot:         |
 | [Hydra](https://github.com/SamoZ256/hydra)                        | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :apple:                              |
 | [Kenji-NX](https://github.com/Kenji-NX/Kenji-NX)                  | :heavy_check_mark: | MIT license        | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :apple: :penguin:         |
 | [MeloNX](https://git.743378673.xyz/MeloNX/MeloNX/)                | :heavy_check_mark: | MIT license        | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :iphone:                             |
-| [Mephisto](https://github.com/reswitched/Mephisto)                | :heavy_check_mark: | GNU GPLv2          | :x:  | :x:                | :x:                | Nintendo Switch  | :computer: :apple: :penguin:         |
 | [Nozomi](https://github.com/noumidev/Nozomi)                      | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :heavy_minus_sign:                   |
-| [NSEmu](https://github.com/RKX1209/nsemu)                         | :heavy_check_mark: | GNU GPLv3          | :x:  | :x:                | :x:                | Nintendo Switch  | :penguin:                            |
-| [NXEmu](https://discord.gg/tA2pg3ZM)                              | :heavy_minus_sign: | :heavy_minus_sign: | :x:  | :heavy_minus_sign: | :x:                | Nintendo Switch  | :computer:                           |
 | [Pine](https://github.com/Ishan09811/pine)                        | :heavy_check_mark: | MPLv2              | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :robot:                              |
 | [Pomelo](https://pomelo-emu.github.io/)                           | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :iphone:                             |
 | [Ryujinx (Ryubing fork)](https://git.ryujinx.app/ryubing/ryujinx) | :heavy_check_mark: | MIT license        | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :apple: :penguin:         |
 | [Ryujinx-mirror](https://git.ryujinx.app/archive/ryujinx-mirror)  | :heavy_check_mark: | MIT license        | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :apple: :penguin: :robot: |
-| [Ryujinx](#)                                                      | :heavy_check_mark: | MIT license        | :x:  | :x:                | :x:                | Nintendo Switch  | :computer: :apple: :penguin: :robot: |
 | [Skyline](https://skyline-emu.one/)                               | :heavy_check_mark: | MPLv2              | :x:  | :x:                | :heavy_minus_sign: | Nintendo Switch  | :robot:                              |
 | [Strato](https://github.com/strato-emu/strato)                    | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_minus_sign: | :heavy_minus_sign: | Nintendo Switch  | :robot:                              |
 | [Sudachi](https://sudachi.emuplace.app/)                          | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :robot:                   |
-| [Suyu](https://suyu.dev/)                                         | :heavy_check_mark: | GNU GPLv3          | :x:  | :x:                | :x:                | Nintendo Switch  | :computer: :penguin:                 |
-| [Uzuy](https://uzuy-edge.org/)                                    | :heavy_check_mark: | GNU GPLv3          | :x:  | :x:                | :x:                | Nintendo Switch  | :computer: :penguin:                 |
-| [Yuzu](#)                                                         | :heavy_check_mark: | GNU GPLv3          | :x:  | :x:                | :heavy_minus_sign: | Nintendo Switch  | :computer: :penguin: :robot:         |
-
-> [!CAUTION]
-> Since RyuJinx and Yuzu have been shut down, any data collection, telemetry, and analytics should be shut off as a precaution, otherwise the data could be sent to Nintendo or other 3rd parties and the data could be collected, stored, or used for any purpose without user consent.
 
 #### Nintendo Switch 2
 
