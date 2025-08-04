@@ -194,7 +194,6 @@ Now, without further ado, enjoy!
 
 | Emulator                                        | FOSS               | License   | Paid | Active             | Recommended        | Emulated systems  | Platform                     |
 | ----------------------------------------------- | ------------------ | --------- | ---- | ------------------ | ------------------ | ----------------- | ---------------------------- |
-| [Oboromi](https://github.com/Nikilites/oboromi) | :heavy_check_mark: | MPLv2     | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch 2 | :computer: :apple: :penguin: |
 | [Pound](https://github.com/OwnedByWuigi/pound)  | :heavy_check_mark: | GNU GPLv3 | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch 2 | :computer: :apple: :penguin: |
 
 > [!CAUTION]
