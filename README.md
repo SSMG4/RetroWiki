@@ -11,7 +11,7 @@ A repository that chooses the best emulator of each device/console for every pla
 | Minus sign | :heavy_minus_sign: | Partially open-source, no license, incorrect license, or disputed project license |
 | X          | :x:                | Closed-source/proprietary project                                                 |
 
-## Platforms
+## Platforms With Emulators
 
 | Name                    | Icon                   | Meaning             |
 | ----------------------- | ---------------------- | ------------------- |
