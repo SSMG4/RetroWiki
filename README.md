@@ -1,5 +1,5 @@
 # RetroWiki
-A repository that chooses the best free emulator of each device/console and provides everything you need to set one up!
+A repository that chooses the best free emulator(s) of each device/console and provides everything you need to set one up!
 
 + This Markdown is heavily inspired by [DerekTurtleRoe](https://github.com/DerekTurtleRoe)'s [Awesome-Emulators](https://github.com/DerekTurtleRoe/awesome-emulators) project so huge thanks to them!
 
