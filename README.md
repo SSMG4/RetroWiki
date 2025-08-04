@@ -177,8 +177,6 @@ Now, without further ado, enjoy!
 | ----------------------------------------------------------- | ------------------ | ----------- | ---- | ------------------ | ------------------ | ---------------- | ---------------------------- |
 | [Cemu](https://cemu.info/)                                  | :heavy_check_mark: | MPLv2       | :x:  | :heavy_check_mark: | :heavy_check_mark: | Nintendo Wii U   | :computer: :apple: :penguin: |
 | [Cemu-Android](https://github.com/XForYouX/Cemu-Android/)   | :heavy_check_mark: | MPLv2       | :x:  | :heavy_check_mark: | :heavy_check_mark: | Nintendo Wii U   | :robot:                      |
-| [Decaf](https://github.com/decaf-emu/decaf-emu)             | :heavy_check_mark: | GNU GPLv3+  | :x:  | :x:                | :x:                | Nintendo Wii U   | :computer: :apple: :penguin: |
-| [Kinnay](https://github.com/kinnay/Wii-U-Firmware-Emulator) | :heavy_check_mark: | MIT license | :x:  | :x:                | :x:                | Nintendo Wii U   | :penguin:                    |
 
 #### Nintendo Switch
 
