@@ -102,7 +102,7 @@ Now, without further ado, enjoy!
 | --------------------------------------------------------------------------------------------------- | ------------------ | ---------------- | ---- | ------------------ | ------------------ | ------------------ | --------------------------------------------- |
 | [ChonkyStation3](https://github.com/liuk7071/ChonkyStation3)                                        | :heavy_check_mark: | Source available | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Sony PlayStation 3 | :computer: :apple: :penguin:                  |
 | [RPCSX](https://github.com/RPCSX/rpcsx)                                                     | :heavy_check_mark: | GNU GPLv2        | :x:  | :heavy_check_mark:                | :heavy_minus_sign:                | Sony PlayStation 3 | :robot: |
-| [RPCSX-UI](https://github.com/RPCSX/rpcsx-ui-android)                                                     | :heavy_check_mark: | GNU GPLv2        | :x:  | :x:                | :heavy_minus_sign:                | Sony PlayStation 3 | :robot: |
+| [RPCSX-UI](https://github.com/RPCSX/rpcsx-ui-android)                                                     | :heavy_check_mark: | GNU GPLv2        | :x:  | :heavy_check_mark:                | :heavy_minus_sign:                | Sony PlayStation 3 | :robot: |
 | [RPCS3](https://rpcs3.net/)                                                                         | :heavy_check_mark: | GNU GPLv2        | :x:  | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation 3 | :computer: :apple: :penguin: :imp:            |
 
 #### Sony PlayStation 4
