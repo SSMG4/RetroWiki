@@ -163,7 +163,6 @@ Now, without further ado, enjoy!
 | ---------------------------------------------------------------- | ------------------ | ----------------- | ---- | ------------------ | ------------------ | ------------------------------- | ------------------------------------ |
 | [Dolphin](https://dolphin-emu.org/)                              | :heavy_check_mark: | GNU GPLv3         | :x:  | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :computer: :apple: :penguin: :robot: |
 | [DolphiniOS](https://dolphinios.oatmealdome.me/)                 | :heavy_check_mark: | GNU GPLv3         | :x:  | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :iphone:                             |
-| [Ishiiruka-Dolphin](https://github.com/Tinob/Ishiiruka)          | :heavy_check_mark: | GNU GPLv3         | :x:  | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :computer: :apple: :penguin:         |
 
 #### Nintendo Wii
 
@@ -171,7 +170,6 @@ Now, without further ado, enjoy!
 | -------------------------------------------------------- | ------------------ | --------- | ---- | ------------------ | ------------------ | ------------------------------- | ------------------------------------ |
 | [Dolphin](https://dolphin-emu.org/)                      | :heavy_check_mark: | GNU GPLv3 | :x:  | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :computer: :apple: :penguin: :robot: |
 | [DolphiniOS](https://github.com/OatmealDome/dolphin-ios) | :heavy_check_mark: | GNU GPLv3 | :x:  | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :iphone:                             |
-| [Ishiiruka-Dolphin](https://github.com/Tinob/Ishiiruka)  | :heavy_check_mark: | GNU GPLv3 | :x:  | :x:                | :x:                | Nintendo GameCube, Nintendo Wii | :computer: :apple: :penguin:         |
 
 #### Nintendo Wii U
 
