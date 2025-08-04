@@ -3,7 +3,7 @@ A repository that chooses the best free emulator of each device/console and prov
 
 + This Markdown is heavily inspired by [DerekTurtleRoe](https://github.com/DerekTurtleRoe)'s [Awesome-Emulators](https://github.com/DerekTurtleRoe/awesome-emulators) project so huge thanks to them!
 
-## Source Availability
+## Source Availability (FOSS)
 
 | Name       | Icon               | Meaning                                                                           |
 | ---------- | ------------------ | --------------------------------------------------------------------------------- |
