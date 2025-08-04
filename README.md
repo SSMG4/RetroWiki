@@ -232,8 +232,6 @@ Now, without further ado, enjoy!
 | ----------------------------------------------------------------------------------------------------------- | ------------------ | -------------------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------------------------------------------------- |
 | [Flycast Dojo](https://github.com/blueminder/flycast-dojo)                                                  | :heavy_check_mark: | GNU GPLv2            | :x:                | :heavy_check_mark: | :heavy_check_mark: | Sega Dreamcast   | :computer: :apple: :penguin:                                           |
 | [Flycast](https://github.com/flyinghead/flycast)                                                            | :heavy_check_mark: | GNU GPLv2            | :x:                | :heavy_check_mark: | :heavy_check_mark: | Sega Dreamcast   | :computer: :apple: :penguin: :robot: :iphone: Nintendo Switch Xbox One |
-| [lxdream-nitro](https://gitlab.com/simulant/community/lxdream-nitro)                                        | :heavy_check_mark: | GNU GPLv2            | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Sega Dreamcast   | :apple: :penguin:                                                      |
-| [washDC (formerly WashingtonDC)](https://gitlab.com/washemu/washdc)                                         | :heavy_check_mark: | GNU GPLv3+           | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Sega Dreamcast   | :computer: :penguin:                                                   |
 
 #### Sega Dreamcast VMU
 
