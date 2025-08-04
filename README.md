@@ -193,8 +193,6 @@ Now, without further ado, enjoy!
 | [Pomelo](https://pomelo-emu.github.io/)                           | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :iphone:                             |
 | [Ryujinx (Ryubing fork)](https://git.ryujinx.app/ryubing/ryujinx) | :heavy_check_mark: | MIT license        | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :apple: :penguin:         |
 | [Ryujinx-mirror](https://git.ryujinx.app/archive/ryujinx-mirror)  | :heavy_check_mark: | MIT license        | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :apple: :penguin: :robot: |
-| [Skyline](https://skyline-emu.one/)                               | :heavy_check_mark: | MPLv2              | :x:  | :x:                | :heavy_minus_sign: | Nintendo Switch  | :robot:                              |
-| [Strato](https://github.com/strato-emu/strato)                    | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_minus_sign: | :heavy_minus_sign: | Nintendo Switch  | :robot:                              |
 | [Sudachi](https://sudachi.emuplace.app/)                          | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :robot:                   |
 
 #### Nintendo Switch 2
