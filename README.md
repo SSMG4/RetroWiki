@@ -441,10 +441,8 @@ See multi-emulators section for "Emma 02 emulator"
 | Emulator                                                                   | FOSS               | License                                                              | Paid | Active             | Recommended        | Emulated systems | Platform                             |
 | -------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------- | ---- | ------------------ | ------------------ | ---------------- | ------------------------------------ |
 | [Azahar](https://github.com/azahar-emu/azahar)                             | :heavy_check_mark: | GNU GPLv2                                                            | :x:  | :heavy_check_mark: | :heavy_check_mark: | Nintendo 3DS     | :computer: :penguin: :robot:         |
-| [Borked3DS](https://github.com/Borked3DS/Borked3DS)                        | :heavy_check_mark: | GNU GPLv2                                                            | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo 3DS     | :computer: :apple: :penguin: :robot: |
 | [Lime3DS](https://lime3ds.github.io/)                                      | :heavy_check_mark: | GNU GPLv2                                                            | :x:  | :heavy_check_mark: | :heavy_check_mark: | Nintendo 3DS     | :computer: :apple: :penguin: :robot: |
 | [Mandarine](https://github.com/mandarine3ds/mandarine) (formerly Lemonade) | :heavy_check_mark: | GNU GPLv2                                                            | :x:  | :heavy_check_mark: | :heavy_check_mark: | Nintendo 3DS     | :computer: :apple: :penguin: :robot: |
-| [Mikage](https://mikage.app/)                                              | :heavy_minus_sign: | [None currently](https://github.com/mikage-emu/mikage-dev/issues/11) | :x:  | :heavy_minus_sign: | :heavy_check_mark: | Nintendo 3DS     | :penguin:                            |
 | [PabloMK7's Citra](https://github.com/PabloMK7/citra)                      | :heavy_check_mark: | GNU GPLv2                                                            | :x:  | :heavy_check_mark: | :heavy_check_mark: | Nintendo 3DS     | :computer: :apple: :penguin: :robot: |
 
 ### Game Park GP32
@@ -457,7 +455,6 @@ See multi-emulators section for "Emma 02 emulator"
 
 | Emulator                                        | FOSS               | License      | Paid | Active             | Recommended        | Emulated systems | Platform                                   |
 | ----------------------------------------------- | ------------------ | ------------ | ---- | ------------------ | ------------------ | ---------------- | ------------------------------------------ |
-| [Felix](https://github.com/laoo/Felix/)         | :heavy_check_mark: | MIT license  | :x:  | :heavy_minus_sign: | :heavy_check_mark: | Atari Lynx       | :computer:                                 |
 | [Handy](http://sourceforge.net/projects/handy/) | :heavy_check_mark: | zlib license | :x:  | :x:                | :heavy_check_mark: | Atari Lynx       | :computer: :apple: :penguin: :imp: :robot: |
 
 #### Sega Game Gear
@@ -465,7 +462,7 @@ See multi-emulators section for "Emma 02 emulator"
 | Emulator                                              | FOSS               | License                                                    | Paid                         | Active             | Recommended        | Emulated systems                                                                           | Platform                                         |
 | ----------------------------------------------------- | ------------------ | ---------------------------------------------------------- | ---------------------------- | ------------------ | ------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------ |
 | [Gearsystem](https://github.com/drhelius/Gearsystem/) | :heavy_check_mark: | GNU GPLv3                                                  | :x:                          | :heavy_check_mark: | :heavy_check_mark: | Sega Mark III/Sega Master System, Sega Game Gear, Sega SG-1000, Othello Multivision        | :computer: :apple: :penguin: :imp: :robot:       |
-| [MasterGear](https://fms.komkon.org/MG/)              | :x:                | Proprietary, developer says you can contact him for source | Yes, Android version is paid | :heavy_check_mark: | :heavy_check_mark: | Sega Mark III/Sega Master System, Sega Game Gear, Sega SG-1000, Sega SC-3000, Sega SF-7000 | :computer: :penguin: :imp: :robot: :floppy_disk: |
+| [MasterGear](https://fms.komkon.org/MG/)              | :x:                | Proprietary, developer says you can contact him for source | Android version is paid, use Gearsystem's one instead | :heavy_check_mark: | :heavy_check_mark: | Sega Mark III/Sega Master System, Sega Game Gear, Sega SG-1000, Sega SC-3000, Sega SF-7000 | :computer: :penguin: :imp: :robot: :floppy_disk: |
 
 ### Sony Handhelds
 
@@ -473,25 +470,14 @@ See multi-emulators section for "Emma 02 emulator"
 
 | Emulator                                                            | FOSS               | License          | Paid | Active             | Recommended        | Emulated systems          | Platform                                      |
 | ------------------------------------------------------------------- | ------------------ | ---------------- | ---- | ------------------ | ------------------ | ------------------------- | --------------------------------------------- |
-| [cspspemu](https://github.com/cspspemu/cspspemu)                    | :heavy_minus_sign: | Source available | :x:  | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
 | [JPCSP](https://jpcsp.org/)                                         | :heavy_check_mark: | GNU GPLv3        | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Sony PlayStation Portable | :computer: :apple: :penguin:                  |
-| [JPCSP2C](https://github.com/georgemoralis/jpcsp2c)                 | :heavy_check_mark: | GNU GPLv3        | :x:  | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
-| [jspspemu](https://github.com/jspspemu/jspspemu)                    | :heavy_minus_sign: | Source available | :x:  | :x:                | :x:                | Sony PlayStation Portable | :computer: :apple: :penguin:                  |
-| [mfzpsp](https://code.google.com/archive/p/mfzpsp/)                 | :heavy_check_mark: | GNU GPLv3        | :x:  | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
-| [PCSP](https://www.emulator-zone.com/doc.php/psp/pcsp.html)         | :x:                | Proprietary      | :x:  | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
-| [Potemkin](https://www.emulator-zone.com/doc.php/psp/potemkin.html) | :heavy_check_mark: | GNU GPLv2        | :x:  | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
 | [PPSSPP](https://ppsspp.org/)                                       | :heavy_check_mark: | GNU GPLv2+       | :x:  | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation Portable | :computer: :apple: :penguin: :robot: :iphone: |
-| [PSPE](https://www.emulator-zone.com/doc.php/psp/pspe.html)         | :x:                | Proprietary      | :x:  | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
-| [pspemu](https://github.com/soywiz-archive/pspemu)                  | :heavy_minus_sign: | Source available | :x:  | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
-| [pspplayer](https://code.google.com/archive/p/pspplayer/)           | :heavy_check_mark: | GNU LGPLv2       | :x:  | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
-| [Sam](https://www.zophar.net/psp/sam.html)                          | :heavy_minus_sign: | Source available | :x:  | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
 
 #### Sony PocketStation
 
 | Emulator                                                                                                                                          | FOSS               | License          | Paid | Active | Recommended        | Emulated systems   | Platform                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---------------- | ---- | ------ | ------------------ | ------------------ | ---------------------------- |
 | [PK201](http://drhell.web.fc2.com/pocket/index.html) - [Android version](https://play.google.com/store/apps/details?id=com.dokutajigokusai.pk201) | :x:                | Proprietary      | :x:  | :x:    | :heavy_minus_sign: | Sony PocketStation | :computer: :robot:           |
-| [PKEmu](https://www.zophar.net/pocketstation/pkemu.html)                                                                                          | :x:                | Proprietary      | :x:  | :x:    | :heavy_minus_sign: | Sony PocketStation | :computer:                   |
 | [pockystation](https://github.com/simias/pockystation)                                                                                            | :heavy_minus_sign: | Source available | :x:  | :x:    | :heavy_minus_sign: | Sony PocketStation | :computer: :apple: :penguin: |
 
 #### Sony PlayStation Vita
@@ -500,39 +486,25 @@ See multi-emulators section for "Emma 02 emulator"
 | ------------------------------------------------------------- | ------------------ | ---------------- | ---- | ------------------ | ------------------ | --------------------- | ------------------------------------ |
 | [Vita3K](https://vita3k.org/)                                 | :heavy_check_mark: | GNU GPLv2        | :x:  | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation Vita | :computer: :apple: :penguin: :robot: |
 | [Vita3K-Android](https://github.com/ikhoeyZX/Vita3K-Android/) | :heavy_check_mark: | GNU GPLv2        | :x:  | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation Vita | :robot:                              |
-| [vitaemu](https://github.com/soywiz-archive/vitaemu)          | :heavy_minus_sign: | Source available | :x:  | :x:                | :x:                | Sony PlayStation Vita | :robot:                              |
 
 ### Bandai WonderSwan/WonderSwan Color/SwanCrystal/WonderWitch
 
 | Emulator                                                                        | FOSS               | License          | Paid | Active             | Recommended        | Emulated systems                           | Platform             |
 | ------------------------------------------------------------------------------- | ------------------ | ---------------- | ---- | ------------------ | ------------------ | ------------------------------------------ | -------------------- |
-| [Cygne](http://cygne.emuunlim.com/)                                             | :heavy_check_mark: | GNU GPLv2        | :x:  | :x:                | :heavy_minus_sign: | Bandai WonderSwan, Bandai WonderSwan Color | :computer:           |
-| [MiracleMage](https://www.zophar.net/ws/miraclemage.html)                       | :heavy_check_mark: | GNU GPLv2        | :x:  | :x:                | :heavy_minus_sign: | Bandai WonderSwan, Bandai WonderSwan Color | :computer:           |
-| [NitroSwan](https://github.com/FluBBaOfWard/NitroSwan)                          | :heavy_minus_sign: | Source available | :x:  | :heavy_check_mark: | :heavy_check_mark: | Bandai WonderSwan, Bandai WonderSwan Color | Nintendo DS          |
 | [NewOswan](https://github.com/Godzil/NewOswan)                                  | :heavy_check_mark: | GNU GPLv2        | :x:  | :x:                | :heavy_minus_sign: | Bandai WonderSwan, Bandai WonderSwan Color | :apple: :penguin:    |
 | [Oswan](http://sourceforge.jp/projects/oswan/)                                  | :heavy_check_mark: | GNU GPLv2        | :x:  | :x:                | :heavy_minus_sign: | Bandai WonderSwan, Bandai WonderSwan Color | :computer: :penguin: |
-| [Oswan (community fork with some changes)](https://github.com/gameblabla/oswan) | :heavy_check_mark: | GNU GPLv2        | :x:  | :x:                | :heavy_minus_sign: | Bandai WonderSwan, Bandai WonderSwan Color | :computer: :penguin: |
-| [StoicGoose](https://github.com/xdanieldzd/StoicGoose/)                         | :heavy_check_mark: | MIT license      | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Bandai WonderSwan, Bandai WonderSwan Color | :computer: :penguin: |
-| [WonderScott](https://www.zophar.net/ws/wonderscott.html)                       | :x:                | Proprietary      | :x:  | :x:                | :x:                | Bandai WonderSwan, Bandai WonderSwan Color | :computer:           |
-| [WSCamp](https://www.zophar.net/ws/wscamp.html)                                 | :x:                | Proprietary      | :x:  | :x:                | :x:                | Bandai WonderSwan, Bandai WonderSwan Color | :computer:           |
 
 ### SNK Neo Geo Pocket/Color
 
 | Emulator                                                                                        | FOSS               | License     | Paid               | Active             | Recommended        | Emulated systems         | Platform             |
 | ----------------------------------------------------------------------------------------------- | ------------------ | ----------- | ------------------ | ------------------ | ------------------ | ------------------------ | -------------------- |
-| [BeNeoPocott (NeoPocott ported to BeOS)](https://www.zophar.net/beos/ngpocket/beneopocott.html) | :heavy_minus_sign: | Proprietary | :x:                | :heavy_minus_sign: | :heavy_minus_sign: | SNK Neo Geo Pocket/Color | BeOS/Haiku           |
-| [Koyote](https://www.zophar.net/ngpocket/koyote.html)                                           | :x:                | Proprietary | :x:                | :x:                | :heavy_minus_sign: | SNK Neo Geo Pocket/Color | :computer:           |
 | [NeoPop-SDL](https://github.com/nih-at/NeoPop-SDL)                                              | :heavy_check_mark: | GNU GPLv2   | :x:                | :x:                | :heavy_minus_sign: | SNK Neo Geo Pocket/Color | :computer: :penguin: |
 | [NeoPop](https://www.zophar.net/ngpocket/neopop.html)                                           | :heavy_check_mark: | GNU GPLv2   | :x:                | :x:                | :heavy_minus_sign: | SNK Neo Geo Pocket/Color | :computer:           |
-| [NeoGPC](https://code.google.com/p/neogpc/)                                                     | :heavy_check_mark: | GNU GPLv3   | :x:                | :x:                | :heavy_minus_sign: | SNK Neo Geo Pocket/Color | :computer:           |
-| [NeoPocott](http://neopocott.emuunlim.com/index.html)                                           | :x:                | Proprietary | :x:                | :x:                | :heavy_minus_sign: | SNK Neo Geo Pocket/Color | :computer: :penguin: |
-| [NGPocket](https://www.zophar.net/ngpocket/ngpocket.html)                                       | :x:                | Proprietary | :heavy_check_mark: | :x:                | :x:                | SNK Neo Geo Pocket/Color | :computer:           |
 
 ### Watara SuperVision
 
 | Emulator                                                         | FOSS               | License                                                                                                                          | Paid | Active             | Recommended        | Emulated systems   | Platform                                                                   |
 | ---------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------------ | ------------------ | ------------------ | -------------------------------------------------------------------------- |
-| [Potator (legacy)](https://www.zophar.net/wsvision/potator.html) | :heavy_minus_sign: | Source available                                                                                                                 | :x:  | :x:                | :heavy_minus_sign: | Watara SuperVision | :computer: :penguin: GP32 OpenDingux                                       |
 | [Potator (SDL2 fork)](https://github.com/infval/potator)         | :heavy_minus_sign: | The original license was only source available, so this should technically be the same, but the license in the repo is Unlicense | :x:  | :heavy_minus_sign: | :heavy_check_mark: | Watara SuperVision | :computer: :penguin: Nintendo DS OpenDingux GP32 Sony PlayStation Portable |
 | [Wataroo](http://tailchao.com/Wataroo/index.php)                 | :x:                | Proprietary                                                                                                                      | :x:  | :heavy_minus_sign: | :heavy_check_mark: | Watara SuperVision | :computer:                                                                 |
 
@@ -542,44 +514,27 @@ See multi-emulators section for "Emma 02 emulator"
 
 | Emulator                                                             | FOSS               | License          | Paid | Active             | Recommended        | Emulated systems | Platform                     |
 | -------------------------------------------------------------------- | ------------------ | ---------------- | ---- | ------------------ | ------------------ | ---------------- | ---------------------------- |
-| [Clicky](https://github.com/daniel5151/clicky)                       | :heavy_minus_sign: | Source available | :x:  | :x:                | :heavy_minus_sign: | Apple iPod       | :computer: :penguin:         |
 | [iPod n3g emulator](https://github.com/lemonjesus/iPod-n3g-emulator) | :heavy_check_mark: | GNU GPLv3        | :x:  | :x:                | :heavy_minus_sign: | Apple iPod       | :computer: :penguin:         |
-| [qemu-ipod-nano](https://github.com/lemonjesus/qemu-ipod-nano)       | :heavy_check_mark: | GNU GPLv2        | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Apple iOS        | :computer: :penguin:         |
-| [qemu-ios](https://github.com/devos50/qemu-ios/tree/ipod_touch_1g)   | :heavy_check_mark: | GNU GPLv2        | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Apple iOS        | :computer: :penguin:         |
 | [touchHLE](https://github.com/hikari-no-yume/touchHLE)               | :heavy_check_mark: | MPL 2.0          | :x:  | :heavy_check_mark: | :heavy_check_mark: | Apple iOS        | :computer: :penguin: :robot: |
-| [unidbg](https://github.com/zhkl0228/unidbg)                         | :heavy_check_mark: | Apache 2.0       | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Apple iOS        | :computer: :penguin:         |
-| [xnu-qemu-arm64](https://github.com/alephsecurity/xnu-qemu-arm64)    | :heavy_check_mark: | GNU GPLv2        | :x:  | :x:                | :heavy_minus_sign: | Apple iOS        | :computer: :penguin:         |
 
 ### Google Android
 
 | Emulator                                                                    | FOSS               | License     | Paid               | Active             | Recommended        | Emulated systems | Platform                     |
 | --------------------------------------------------------------------------- | ------------------ | ----------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------- |
-| [Anbox](https://anbox.io/)                                                  | :heavy_check_mark: | GNU GPLv3   | :x:                | :x:                | :heavy_minus_sign: | Google Android   | :penguin:                    |
 | [Android SDK (includes an emulator)](https://developer.android.com/studio/) | :heavy_check_mark: | Apache 2.0  | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer: :apple: :penguin: |
 | [Android x86](https://www.android-x86.org/)                                 | :heavy_check_mark: | Apache 2.0  | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | Runs on any x86 computer     |
-| [BlueStacks](https://www.bluestacks.com/)                                   | :x:                | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer: :apple:           |
 | [GameLoop](https://www.gameloop.com/)                                       | :x:                | Proprietary | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer:                   |
 | [Google Play Games](https://play.google.com/googleplaygames)                | :x:                | Proprietary | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer:                   |
-| [NoxPlayer](https://www.bignox.com/)                                        | :x:                | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer: :apple:           |
-| [Plarium Play](https://plarium.com/)                                        | :x:                | Proprietary | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer:                   |
 | [Waydroid](https://github.com/waydroid)                                     | :heavy_check_mark: | GNU GPLv3   | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :penguin:                    |
-| [Windows Subsystem for Android](https://github.com/microsoft/WSA)           | :heavy_check_mark: | MIT license | :x:                | :x:                | :x:                | Google Android   | :computer:                   |
 
 > [!WARNING]
-> Android emulators are in a weird place. A lot of them have had or do have sketchy or weird beginnings or origins. Some of them are essentially wrappers for VirtualBox or Android-x86, or other hypervisor/virtualization software. It is advised you take the usual precautions when dealing with software you've never used or heard of before. Please keep your operating system and software up to date, make sure to have active and updated malware protection and a decent firewall, and don't use cracked or modified versions of the software. Some examples are included below.
-
-NoxPlayer: Affected by a supply-chain attack where attackers replaced legitimate update files with malware, leading to reconnaissance activities and potential infections with other malware.
-
-BlueStacks: Contained vulnerabilities that allowed remote code execution and unauthorized APK installations, affecting versions 4.80 and below.
+> Android emulators are in a weird place. A lot of them have had or do have sketchy or weird beginnings or origins. Some of them are essentially wrappers for VirtualBox or Android-x86, or other hypervisor/virtualization software. It is advised you take the usual precautions when dealing with software you've never used or heard of before. Please keep your operating system and software up to date, make sure to have active and updated malware protection and a decent firewall, and don't use cracked or modified versions of the software.
 
 ### N-Gage
 
 | Emulator                                     | FOSS               | License          | Paid               | Active             | Recommended        | Emulated systems  | Platform                             |
 | -------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ----------------- | ------------------------------------ |
 | [EKLA21](https://github.com/EKA2L1/EKA2L1/)  | :heavy_check_mark: | GNU GPLv3        | :x:                | :heavy_check_mark: | :heavy_check_mark: | Symbian OS/N-Gage | :computer: :apple: :penguin: :robot: |
-| [Engemu](https://github.com/mrRosset/Engemu) | :heavy_check_mark: | GNU GPLv3        | :x:                | :x:                | :x:                | Symbian OS/N-Gage | :computer:                           |
-| [NGEmu](https://github.com/NGEmu/NGEmu)      | :heavy_check_mark: | Apache 2.0       | :x:                | :x:                | :x:                | N-Gage            | :computer:                           |
-| [Nomu](https://github.com/mrRosset/Nomu)     | :heavy_minus_sign: | Source available | :heavy_minus_sign: | :x:                | :x:                | Symbian OS/N-Gage | :computer:                           |
 
 ### BREW
 
@@ -600,14 +555,8 @@ BlueStacks: Contained vulnerabilities that allowed remote code execution and una
 | [FreeJ2ME](https://github.com/hex007/freej2me/)                             | :heavy_check_mark: | GNU GPLv3+                                                                       | :x:  | :heavy_check_mark: | :heavy_check_mark: | J2ME             | :computer: :apple: :penguin: |
 | [FreeJ2ME-Plus](https://github.com/TASEmulators/freej2me-plus)              | :heavy_check_mark: | GNU GPLv3+                                                                       | :x:  | :heavy_check_mark: | :heavy_check_mark: | J2ME             | :computer: :apple: :penguin: |
 | [J2ME-Loader](https://github.com/nikita36078/J2ME-Loader/)                  | :heavy_check_mark: | Apache 2.0                                                                       | :x:  | :heavy_check_mark: | :heavy_check_mark: | J2ME             | :robot:                      |
-| [Jademula](https://github.com/RobDangerous/Jademula)                        | :heavy_check_mark: | GNU GPLv3                                                                        | :x:  | :x:                | :heavy_minus_sign: | J2ME             | :computer:                   |
 | [JL-Mod (fork of J2ME-Loader)](https://github.com/woesss/JL-Mod/)           | :heavy_check_mark: | Apache 2.0                                                                       | :x:  | :heavy_check_mark: | :heavy_minus_sign: | J2ME             | :robot:                      |
-| [KEmulator](https://archive.org/details/KEmulator103)                       | :x:                | Proprietary                                                                      | :x:  | :x:                | :heavy_minus_sign: | J2ME             | :computer:                   |
 | [KEmulator-nnmod](https://nnp.nnchan.ru/kem/)                               | :x:                | Proprietary                                                                      | :x:  | :heavy_check_mark: | :heavy_minus_sign: | J2ME             | :computer:                   |
-| [ME4SE](https://sourceforge.net/projects/kobjects/files/me4se/)             | :heavy_check_mark: | GNU GPLv2                                                                        | :x:  | :x:                | :heavy_minus_sign: | J2ME             | :computer: :apple: :penguin: |
-| [Micro Emulator](https://github.com/barteo/microemu)                        | :heavy_minus_sign: | 3 licenses are mentioned in the license file (LGPL 2.1, Apache 2.0, and MPL 2.0) | :x:  | :x:                | :x:                | J2ME             | :computer: :apple: :penguin: |
-| [Micro Emulator (community fork)](https://github.com/artem-frolov/microemu) | :heavy_minus_sign: | LGPL 2.1 and Apache 2.0?                                                         | :x:  | :x:                | :heavy_minus_sign: | J2ME             | :computer: :apple: :penguin: |
-| [Midp-Emulator](https://github.com/ichisadashioko/midp-emulator)            | :heavy_minus_sign: | Source available                                                                 | :x:  | :x:                | :heavy_minus_sign: | J2ME             | :computer: :apple: :penguin: |
 | [SquirrelJME](https://squirreljme.cc/)                                      | :heavy_check_mark: | MPL 2.0                                                                          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | J2ME             | :computer: :apple: :penguin: |
 
 ### Palm devices
@@ -615,7 +564,6 @@ BlueStacks: Contained vulnerabilities that allowed remote code execution and una
 | Emulator                                                          | FOSS               | License                                                              | Paid | Active             | Recommended        | Emulated systems                                                                      | Platform                                            |
 | ----------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------- | ---- | ------------------ | ------------------ | ------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | [CloudpilotEmu](https://github.com/cloudpilot-emu/cloudpilot-emu) | :heavy_check_mark: | GNU GPLv3                                                            | :x:  | :heavy_check_mark: | :heavy_minus_sign: | [Multiple devices](https://github.com/cloudpilot-emu/cloudpilot-emu#emulated-devices) | :computer: :apple: :penguin: :globe_with_meridians: |
-| [Mu](https://github.com/meepingsnesroms/Mu)                       | :heavy_minus_sign: | Creative Commons Attribution-NonCommercial 3.0 United States License | :x:  | :x:                | :heavy_minus_sign: | Palm OS                                                                               | :computer: :apple: :penguin:                        |
 
 ## Computer emulators
 
@@ -627,11 +575,8 @@ BlueStacks: Contained vulnerabilities that allowed remote code execution and una
 
 | Emulator                                                            | FOSS               | License          | Paid | Active             | Recommended        | Emulated systems | Platform                     |
 | ------------------------------------------------------------------- | ------------------ | ---------------- | ---- | ------------------ | ------------------ | ---------------- | ---------------------------- |
-| [BeebEm](https://github.com/stardot/beebem-mac)                     | :heavy_minus_sign: | Custom           | :x:  | :x:                | :heavy_minus_sign: | Acorn BBC Micro  | :apple:                      |
-| [BeebEm (community fork)](https://github.com/CommanderCoder/BeebEm) | :heavy_minus_sign: | Custom           | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Acorn BBC Micro  | :apple:                      |
 | [b-em](https://github.com/stardot/b-em)                             | :heavy_check_mark: | GNU GPLv2        | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Acorn BBC Micro  | :computer: :penguin:         |
 | [b2](https://github.com/tom-seddon/b2)                              | :heavy_check_mark: | GNU GPLv3        | :x:  | :heavy_minus_sign: | :heavy_minus_sign: | Acorn BBC Micro  | :computer: :apple: :penguin: |
-| [model-b](http://modelb.bbcmicro.com/)                              | :heavy_minus_sign: | Source available | :x:  | :x:                | :heavy_minus_sign: | Acorn BBC Micro  | :computer:                   |
 
 #### Acorn Electron computers
 
@@ -642,23 +587,16 @@ BlueStacks: Contained vulnerabilities that allowed remote code execution and una
 | Emulator                                                                                 | FOSS               | License     | Paid | Active             | Recommended        | Emulated systems | Platform        |
 | ---------------------------------------------------------------------------------------- | ------------------ | ----------- | ---- | ------------------ | ------------------ | ---------------- | --------------- |
 | [CaPriCe Forever](https://www.cpc-power.com/cpcarchives/index.php?page=articles&num=445) | :x:                | Proprietary | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Amstrad CPC      | :computer:      |
-| [NO$CPC](https://problemkaputt.github.io/)                                               | :x:                | Proprietary | :x:  | :x:                | :heavy_minus_sign: | Amstrad CPC      | :computer:      |
-| [WinAPE](http://winape.net/)                                                             | :x:                | Proprietary | :x:  | :x:                | :heavy_minus_sign: | Amstrad CPC      | :computer:      |
 | [Xcpc](https://www.xcpc-emulator.net/)                                                   | :heavy_check_mark: | GNU GPLv2   | :x:  | :heavy_check_mark: | :heavy_check_mark: | Amstrad CPC      | :penguin: :imp: |
 
 ### DOS emulators
 
 | Emulator                                                                                 | FOSS               | License   | Paid               | Active             | Recommended        | Emulated systems | Platform                                   |
 | ---------------------------------------------------------------------------------------- | ------------------ | --------- | ------------------ | ------------------ | ------------------ | ---------------- | ------------------------------------------ |
-| [DOSBox Enhanced Community Edition](https://yesterplay.net/dosboxece/)                   | :heavy_check_mark: | GNU GPLv2 | :x:                | :x:                | :x:                | DOS              | :computer: :penguin:                       |
-| [DOSBox-Pure](https://github.com/schellingb/dosbox-pure/)                                | :heavy_check_mark: | GNU GPLv2 | :x:                | :heavy_check_mark: | :heavy_check_mark: | DOS              | :computer: :apple: :penguin:               |
-| [DOSBox-Staging](https://dosbox-staging.github.io/)                                      | :heavy_check_mark: | GNU GPLv2 | :x:                | :heavy_check_mark: | :heavy_check_mark: | DOS              | :computer: :apple: :penguin:               |
-| [DOSBox-Turbo](https://github.com/gururise/DosBoxTurbo)                                  | :heavy_check_mark: | GNU GPLv2 | :x:                | :x:                | :x:                | DOS              | :robot:                                    |
 | [DOSBox-X](https://github.com/joncampbell123/dosbox-x/)                                  | :heavy_check_mark: | GNU GPLv2 | :x:                | :heavy_check_mark: | :heavy_check_mark: | DOS              | :computer: :apple: :penguin: :floppy_disk: |
 | [DOSBox](http://www.dosbox.com/)                                                         | :heavy_check_mark: | GNU GPLv2 | :x:                | :heavy_minus_sign: | :heavy_check_mark: | DOS              | :computer: :apple: :penguin: :imp:         |
 | [em-dosbox](https://github.com/dreamlayers/em-dosbox)                                    | :heavy_check_mark: | GNU GPLv2 | :x:                | :heavy_minus_sign: | :heavy_check_mark: | DOS              | :globe_with_meridians:                     |
-| [Magic DOSBox Lite](https://play.google.com/store/apps/details?id=bruenor.magicbox.free) | :heavy_check_mark: | GNU GPLv2 | :x:                | :heavy_minus_sign: | :heavy_minus_sign: | DOS              | :robot:                                    |
-| [Magic DOSBox](https://play.google.com/store/apps/details?id=bruenor.magicbox)           | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | DOS              | :robot:                                    |
+| [Magic DOSBox](https://pdalife.com/magic-dosbox-android-a38274.html)           | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | DOS              | :robot:                                    |
 
 ### x86 emulators
 
