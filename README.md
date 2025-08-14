@@ -73,7 +73,7 @@ Now, without any interruptions, enjoy!
 | N/A | N/A  | N/A | N/A | N/A    | N/A         | N/A | N/A |
 
 > [!NOTE]
-> This device only has one paid emulator, i could not find any free emulators for it.
+> This device only has one paid standalone emulator, i recommend you go to [this](https://github.com/SSMG4/RetroWiki?tab=readme-ov-file?tab=readme-ov-file#commodore-amiga-computerscommodore-amiga-cd32) section to emulate it.
 
 ### LaserDisc systems
 
