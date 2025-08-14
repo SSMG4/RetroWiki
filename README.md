@@ -34,7 +34,7 @@ All though right now my main focuses are Windows, macOS, Linux and Android, some
 
 ## Table of Contents
 
-- [Awesome Emulators](#awesome-emulators)
+- [RetroWiki](#retrowiki)
   - [Source Availability](#source-availability)
   - [Platform Support](#platform-support)
   - [Table of Contents](#table-of-contents)
@@ -231,7 +231,7 @@ Now, without any interruptions, enjoy!
 | N/A | N/A  | N/A | N/A | N/A    | N/A         | N/A | N/A |
 
 > [!NOTE]
-> This device only has one paid standalone emulator, i recommend you go to [this](https://github.com/SSMG4/RetroWiki?tab=readme-ov-file?tab=readme-ov-file#commodore-amiga-computerscommodore-amiga-cd32) section to emulate it.
+> This device only has one paid standalone emulator, i recommend you go to [this](#commodore-amiga-computerscommodore-amiga-cd32) section to emulate it.
 
 ### LaserDisc systems
 
