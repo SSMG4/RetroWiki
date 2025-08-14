@@ -1092,10 +1092,10 @@ Created by [@DerekTurtleRoe](https://www.github.com/DerekTurtleRoe)
 
 ## Related projects
 
-Here are some related projects I work on:
+Here are some related projects Derek's been work on:
 
 - [Awesome Preservation (will be released soon)](https://github.com/derekturtleroe)
-- [N64DB (released in the future)](https://github.com/derekturtleroe)
+- [N64DB](https://github.com/derekturtleroe/N64DB)
 - [N64-PD-ROMs (a collection of homebrew and freely available ROMs for N64)](https://github.com/derekturtleroe/n64-pd-roms)
 
 ## Disclaimer
