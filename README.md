@@ -1,9 +1,9 @@
 # RetroWiki
-A repository that lists the best free emulator(s) of each device/category and provides everything you need to set one up!
+A repository that lists the best free emulator(s) of each device/category (that was you get less of a headache when choosing the best one) and provides everything you need to set one up!
 
 + This Markdown is heavily inspired by [DerekTurtleRoe](https://github.com/DerekTurtleRoe)'s [Awesome-Emulators](https://github.com/DerekTurtleRoe/awesome-emulators) project so huge thanks to them!
 
-## Free And Open Source Software* (FOSS)
+## Free And Open Source Software (FOSS)
 
 | Name       | Icon               | Meaning                                                                           |
 | ---------- | ------------------ | --------------------------------------------------------------------------------- |
@@ -32,7 +32,7 @@ All though right now, my main focuses are Windows, macOS, Linux and Android. You
 >[!NOTE]
 >Some devices/categories can have a lot of emulators, so my solution for this is to add a :crown: to the best emulator(s) of that section based on my opinion)
 
-Now, without further ado, enjoy!
+Now, without any interruptions, enjoy!
 
 ## Home Game Console Emulators
 
