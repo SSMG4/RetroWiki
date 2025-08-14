@@ -1,17 +1,19 @@
 # RetroWiki
-A repository that chooses the best free emulator(s) of each device/console and provides everything you need to set one up!
+A repository that lists the best free emulator(s) of each device/category and provides everything you need to set one up!
 
 + This Markdown is heavily inspired by [DerekTurtleRoe](https://github.com/DerekTurtleRoe)'s [Awesome-Emulators](https://github.com/DerekTurtleRoe/awesome-emulators) project so huge thanks to them!
 
-## Source Availability (FOSS)
+## Free And Open Source Software* (FOSS)
 
 | Name       | Icon               | Meaning                                                                           |
 | ---------- | ------------------ | --------------------------------------------------------------------------------- |
-| Check mark | :heavy_check_mark: | Open-source project                                                               |
+| Check mark | :heavy_check_mark: | Free and Open-source project                                                               |
 | Minus sign | :heavy_minus_sign: | Partially open-source, no license, incorrect license, or disputed project license |
 | X          | :x:                | Closed-source/proprietary project                                                 |
 
 ## Platform Support
+
+RetroWiki has the same list as Awesome-Emulators
 
 | Name        | Icon                   | Meaning         |
 | ----------- | ---------------------- | --------------- |
@@ -24,6 +26,11 @@ A repository that chooses the best free emulator(s) of each device/console and p
 | Globe       | :globe_with_meridians: | Runs on the web |
 | Floppy Disk | :floppy_disk:          | Runs on DOS     |
 | Everything Else |                    | Runs elsewhere  |
+
+All though right now, my main focuses are Windows, macOS, Linux and Android. You can find the rest of the devices (FreeBSD, iOS, DOS, etc...) soon in another special list.
+
+>[!NOTE]
+>Some devices/categories can have a lot of emulators, so my solution for this is to add a :crown: to the best emulator(s) of that section based on my opinion)
 
 Now, without further ado, enjoy!
 
