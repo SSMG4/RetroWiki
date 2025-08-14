@@ -27,10 +27,10 @@ RetroWiki has the same list as Awesome-Emulators
 | Floppy Disk | :floppy_disk:          | Runs on DOS     |
 | Everything Else |                    | Runs elsewhere  |
 
-All though right now, my main focuses are Windows, macOS, Linux and Android. Some other devices might be in the list but not much. You can find the rest of the devices (FreeBSD, iOS, DOS, etc...) soon in another special list.
+All though right now my main focuses are Windows, macOS, Linux and Android, some other devices might be in the list. If you're only looking for those, you can find them (FreeBSD, iOS, DOS, etc...) soon in another special list.
 
 >[!NOTE]
->Some devices/categories can have a lot of emulators, so my solution for this is to add a :crown: to the best emulator(s) of that section based on my opinion)
+>Some devices/categories can have lots of emulators, so to fix that i added some :crown: to the best emulator(s) of that section based on my opinion)
 
 Now, without any interruptions, enjoy!
 
