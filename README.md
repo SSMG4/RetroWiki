@@ -1,5 +1,5 @@
 # RetroWiki
-A repository that lists the best free emulator(s) of each device/category (that was you get less of a headache when choosing the best one) and provides everything you need to set one up!
+A repository that lists the best free emulator(s) of each device/category (that way you have less of a headache when choosing the best one) and provides everything you need to set one up!
 
 + This Markdown is heavily inspired by [DerekTurtleRoe](https://github.com/DerekTurtleRoe)'s [Awesome-Emulators](https://github.com/DerekTurtleRoe/awesome-emulators) project so huge thanks to them!
 
