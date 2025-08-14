@@ -1041,7 +1041,7 @@ Before attempting to get support, please first read through the entire FAQ.
 For support, open an issue.
 
 ## 🙏 Special Thanks
-
+- DerekTurtleRoe :crown: - for making Awesome-Emulators
 - Zophar's domain - for hosting backup downloads for many emulators, plugins, and other tools and software
 - Emulator Zone - for hosting backup downloads for many emulators, plugins, and other tools and software
 - The Emulation64 website - for keeping their sites up for so long!
@@ -1080,9 +1080,9 @@ Created by [@DerekTurtleRoe](https://www.github.com/DerekTurtleRoe)
 
 ## 🔗 Links
 
-🗣 If you'd like to follow [my social media](https://bio.link/derekturtleroe).
+🗣 If you'd like to follow [Derek's social media](https://bio.link/derekturtleroe).
 
-💲 Support me financially:
+💲 Support DerekTurtleRoe financially:
 
 - [PayPal](https://paypal.me/vgturtle127)
 - [Venmo](https://venmo.com/vgturtle127)
