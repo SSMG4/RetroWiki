@@ -27,7 +27,7 @@ RetroWiki has the same list as Awesome-Emulators
 | Floppy Disk | :floppy_disk:          | Runs on DOS     |
 | Everything Else |                    | Runs elsewhere  |
 
-All though right now my main focuses are Windows, macOS, Linux and Android, some other devices might be in the list. If you're only looking for those, you can find them (FreeBSD, iOS, DOS, etc...) soon in another special list.
+All though right now my main focuses are Windows, macOS, Linux and Android, some other devices might be in the list. If you're only looking for those (FreeBSD, iOS, DOS, etc...), you can find them soon in another special list.
 
 >[!NOTE]
 >Some devices/categories can have lots of emulators, so to fix that i added some :crown: to the best emulator(s) of that section based on my opinion)
@@ -60,6 +60,7 @@ All though right now my main focuses are Windows, macOS, Linux and Android, some
       - [Nintendo Wii](#nintendo-wii)
       - [Nintendo Wii U](#nintendo-wii-u)
       - [Nintendo Switch](#nintendo-switch)
+      - [Nintendo Switch 2](#nintendo-switch-2)
     - [Sega](#sega)
       - [Sega Master System](#sega-master-system)
       - [Sega Genesis/Megadrive and 32X/Sega CD](#sega-genesismegadrive-and-32xsega-cd)
